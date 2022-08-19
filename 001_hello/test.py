@@ -8,6 +8,8 @@ prg = './hello.py'
 
 
 # --------------------------------------------------
+# program to test if file exists
+
 def test_exists():
     """exists"""
 
@@ -15,6 +17,8 @@ def test_exists():
 
 
 # --------------------------------------------------
+# program to see if the test runs
+
 def test_runnable():
     """Runs using python3"""
 
@@ -23,6 +27,8 @@ def test_runnable():
 
 
 # --------------------------------------------------
+# program to see if the test is exexutable
+
 def test_executable():
     """Says 'Hello, World!' by default"""
 
@@ -31,6 +37,7 @@ def test_executable():
 
 
 # --------------------------------------------------
+# prgram shows if the test file is usable
 def test_usage():
     """usage"""
 
@@ -41,6 +48,8 @@ def test_usage():
 
 
 # --------------------------------------------------
+# program checks for test input
+
 def test_input():
     """test for input"""
 
