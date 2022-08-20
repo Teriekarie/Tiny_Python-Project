@@ -1,7 +1,7 @@
 """
 Author : Theresa karamor
 Date   : August 20th 2022
-Purpose: setup
+Purpose: choose the article
 """
 
 import argparse
